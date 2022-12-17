@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.andythorne.phpstormpsr4detection.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.andythorne.phpstormpsr4detection.MyBundle
 
 class MyApplicationService {
 
